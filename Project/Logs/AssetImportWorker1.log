@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 7959 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity Projects\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/polar/Desktop/Files/Game Development/VR Projects/Unity/VRMathWorld/Project
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+62695
+Successfully changed project path to: C:/Users/polar/Desktop/Files/Game Development/VR Projects/Unity/VRMathWorld/Project
+C:/Users/polar/Desktop/Files/Game Development/VR Projects/Unity/VRMathWorld/Project
+Using Asset Import Pipeline V2.

@@ -21,6 +21,7 @@ public class ValueBox : MonoBehaviour
     {
         checkArea = new Vector3(checkRadius, checkRadius, checkRadius);
     }
+
     void Update()
     {
         overlappedCubes = Physics.OverlapBox(checkPos.position, checkArea / 2);
