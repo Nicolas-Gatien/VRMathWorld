@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+Project/Assets/Materials/** linguist-vendored
+Project/Assets/Oculus/** linguist-vendored
+Project/Assets/TextMesh[[:space:]]Pro/** linguist-vendored
+Project/Assets/XR/** linguist-vendored
